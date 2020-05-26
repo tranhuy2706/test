@@ -1,0 +1,23 @@
+*{margin: 0; padding: 0;}
+
+ul.nav.navbar-nav.float-xs-right li {
+    padding: 0px 20px;
+}
+
+a.navbar-brand {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+nav.navbar.navbar-light.menu {
+    font-family: 'Roboto', sans-serif;
+}
+
+ul.nav.navbar-nav.float-xs-right li {
+    padding-top: 15px;
+} 
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+a
